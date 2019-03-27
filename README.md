@@ -10,3 +10,4 @@
 1. [Nginx 编译参数详解](nginx.configration.md)
 1. [socket.io.js 全部版本 CDN 清单](socket.io.js.version.list.md)
 1. [无形空间的神秘较量](wu.xing.de.jiao.liang.md)
+1. [崔永元范冰冰事件中的为人哲学](cyy.and.fbb.md)
